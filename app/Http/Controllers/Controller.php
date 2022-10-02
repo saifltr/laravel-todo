@@ -11,6 +11,7 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 //Test
+    //Comment by sharad
 
     public function test(){
         echo "Route working";
