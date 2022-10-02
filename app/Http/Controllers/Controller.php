@@ -14,7 +14,7 @@ class Controller extends BaseController
     //Comment by sharad
 
     public function test(){
-        echo "Route working";
+        echo "Route working!";
     }
 }
 
