@@ -17,6 +17,8 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://github.com/akkishinde1"><kbd><img src="https://avatars3.githubusercontent.com/akkishinde1?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Gantavya Malviya</b></sub></a><br /><a href="https://linktr.ee/gantavyamalviya" title="Code"> :computer: </a> </td>
+<td align="center"><a href="https://github.com/akkishinde1"><kbd><img src="https://avatars3.githubusercontent.com/akkishinde1?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Akshay Shinde</b></sub></a><br /><a href="https://linktr.ee/gantavyamalviya" title="Code"> :computer: </a> </td>
+    
+<td align="center"><a href="https://github.com/saifltr"><kbd><img src="https://avatars3.githubusercontent.com/saifltr?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Saif Bagmaru</b></sub></a><br /><a href="https://linktr.ee/gantavyamalviya" title="Code"> :computer: </a> </td>
 </tr>
 </table>
