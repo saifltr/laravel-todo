@@ -13,4 +13,6 @@ class Controller extends BaseController
 }
 
 
-//http://localhost/www.laravel-todo.com/public/
+public function test(){
+    echo "Route working";
+}
