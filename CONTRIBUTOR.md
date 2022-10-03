@@ -1,6 +1,3 @@
-<div align="centre">
-    <b>dont contribute(or create PR's) in this repo, contribute only in below mentioned repo</b>
-</div>
 <br/>
 <p align="center">
     <a href="https://hacktoberfest.com/">
