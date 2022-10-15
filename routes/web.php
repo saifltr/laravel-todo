@@ -21,3 +21,7 @@ Route::get('/', function () {
 Route::get('/tasks', function () {
     return view('tasks');
 });
+
+Route::get('/landing', function () {
+    return view('landing');
+});
